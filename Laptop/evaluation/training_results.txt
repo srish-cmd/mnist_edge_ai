@@ -1,0 +1,7 @@
+MNIST CNN Training Results
+==========================
+Epochs: 10
+Batch size: 128
+Training time: 44.61 seconds
+Test loss: 0.0399
+Test accuracy: 98.76%
